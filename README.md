@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/445677592.svg)](https://zenodo.org/badge/latestdoi/445677592)
  
- This repository contains the source code used in the research article by Spinti et al. "The Evolution of Dam Induced River Fragmentation in the United States" [here]( (https://doi.org/10.1038/s41467-023-39194-x). 
+ This repository contains the source code used in the research article by Spinti et al. ["The Evolution of Dam Induced River Fragmentation in the United States"](https://doi.org/10.1038/s41467-023-39194-x). 
  
  ## Contents
  The names of the scripts needed to repeat this analysis are listed below. 
